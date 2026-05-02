@@ -16,7 +16,7 @@ def menu():
     elif op == "3":
         os.system("cd ../Scripts && ./setup.sh")
     elif op == "4":
-        print("Saliendo...")
+        print("Saliendo... pipipi")
         exit()
     else:
         print("Opcion no valida")
